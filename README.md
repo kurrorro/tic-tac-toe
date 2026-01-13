@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic Tac Toe
 A simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScript. 
 Designed for two players to take turns playing.
 
@@ -11,4 +11,4 @@ Features:
 - Final result screen shown after exiting, including the winner and final scores
 - Scores reset when returning to the landing page
 
-Play directly on: https://kurrorro.github.io/TicTacToe
+Play directly on: https://kurrorro.github.io/tic-tac-toe
